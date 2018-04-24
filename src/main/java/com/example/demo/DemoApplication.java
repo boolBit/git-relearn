@@ -9,6 +9,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		System.out.println("master");
 		System.out.println("dev");
+		System.out.println("feature");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
