@@ -11,6 +11,7 @@ public class DemoApplication {
 		System.out.println("dev");
 		System.out.println("feature");
 		System.out.println("hot fix");
+		System.out.println("hot fix1");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
